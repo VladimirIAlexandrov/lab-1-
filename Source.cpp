@@ -184,5 +184,5 @@ int main() {
 	zadanie3();
 	zadanie4();
 	zadanie5();
-
+	printf("ntcn");
 }
